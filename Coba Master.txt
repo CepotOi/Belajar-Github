@@ -1,2 +1,5 @@
-- PHP  
+- PHP
+  * CI
 - JS
+  * React
+  * Vue
