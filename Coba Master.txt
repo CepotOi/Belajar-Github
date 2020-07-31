@@ -1,5 +1,5 @@
 - PHP
-  * CI
+  * Laravel
 - JS
-  * React
+  * Angular
   * Vue
